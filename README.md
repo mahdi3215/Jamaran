@@ -1,8 +1,6 @@
 # Kaggle-aquire-valued-shoppers-challenge
 
-An Implementation of Kaggle Valued Shoppers Challenge - For IUST Artificial Inteligence Course
-
-see http://www.boute.ir/iust-ai-94/valued-shoppers for more.
+An Implementation of Kaggle Valued Shoppers Challenge - 
 
 ## Kaggle Contest Page
 
